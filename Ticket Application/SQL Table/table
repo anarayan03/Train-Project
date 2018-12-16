@@ -1,0 +1,9 @@
+create table Ticket
+(
+Train_No number,
+Train_Name varchar2(20),
+Source_Name varchar2(20),
+Destination_Name varchar2(20),
+Seat number,
+Price number
+);
